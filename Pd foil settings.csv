@@ -1,2 +1,0 @@
-filename, geometry, R_eff, Degen, N*S02, E0, R, sigma2, third, fourth, Ei, N*S02 Expr, Degen  Expr, E0 Expr, R Expr, sigma2 Expr, third Expr, fourth Expr, Ei Expr
-C:/Users/jsjan/.larch/feff/Pd1_K_Palladium_cif11155/feff0001.dat, Pd(0)-Pd(1), 2.750500, 1,  8.54400, -3.38233(0.93093),  2.74132(0.00437),  0.00525(2.47e-4),  0.00000,  0.00000,  0.00000, 12.0 * s02, e0, reff + delr_Pd, sigma2_Pd, 0, 0.0, 0

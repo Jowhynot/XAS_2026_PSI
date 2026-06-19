@@ -1,0 +1,4 @@
+filename, geometry, R_eff, Degen, N*S02, E0, R, sigma2, third, fourth, Ei, N*S02 Expr, Degen  Expr, E0 Expr, R Expr, sigma2 Expr, third Expr, fourth Expr, Ei Expr
+C:/Users/jsjan/.larch/feff/Pd1_K_Palladinite_cif9157/feff0001.dat, Pd(0)-O(1), 2.017600, 1,  2.84800,  6.82721(1.55938),  2.01759(0.01050),  0.00407(7.19e-4),  0.00000,  0.00000,  0.00000, 4.0 * s02, e0, reff + delr_O202, sigma2_O202, 0, 0.0, 0
+C:/Users/jsjan/.larch/feff/Pd1_K_Palladinite_cif9157/feff0002.dat, Pd(0)-Pd(2), 3.030000, 1,  2.84800,  6.82721(1.55938),  3.06524(0.01453),  0.01136(0.00176),  0.00000,  0.00000,  0.00000, 4.0 * s02, e0, reff + delr_Pd303, sigma2_Pd303, 0, 0.0, 0
+C:/Users/jsjan/.larch/feff/Pd1_K_Palladinite_cif9157/feff0003.dat, Pd(0)-Pd(2), 3.419500, 1,  5.69600,  6.82721(1.55938),  3.44393(0.02353),  0.01847(0.00342),  0.00000,  0.00000,  0.00000, 8.0 * s02, e0, reff + delr_Pd342, sigma2_Pd342, 0, 0.0, 0
